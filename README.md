@@ -19,7 +19,7 @@ Images zijn momenteel niet geoptimized, zo heb ik in de build tool Grunt een nie
 ##Above the fold css (critical css)
 Critical CSS
 
-Aangezien de CSS onderverdeeld is in modules is het vrijwel onmogelijk een critical css file aan te maken voor het builden voor above the fold loading. Hiervoor pakken we dus de compressed CSS die al via grunt aangemaakt wordt en laten we hiervoor een critical css file genereren. In de homepage html files willen we vervolgens de CSS inline zetten en in iedergeval bovenaan in de HTML.
+Hiervoor pakken we dus de compressed CSS die al via grunt aangemaakt wordt en laten we hiervoor een critical css file genereren. In de homepage html files willen we vervolgens de CSS inline zetten en in iedergeval bovenaan in de HTML.
 
 ![alt tag](criticalcss.png)
 
