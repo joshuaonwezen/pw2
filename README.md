@@ -56,7 +56,7 @@ Kan natuurlijk ook zo:
 
 ![alt tag](css3.png)
 
-##Font Icons
+##Font Icons & Animations
 
 Er zitten een hoop leuke animaties in maar deze zijn erg pijnlijk voor de perforance, een alternatief voor sloom ladende clients (bijv. mobile) zou misschien moeten zijn om png's te gebruiken zonder animatie.
 Wanneer je een bepaalde font niet hebt ontbreekt het stuk text nu op de website (hier gaat het voor zover ik heb gevonden alleen over icons). Een oplossing hiervoor is om deze naar svg te zetten, zo kunnen er ook geen rare dingen fout gaan wanneer een font niet aanwezig is en lost het ook het probleem op van een fontobserver implementereren waar je dan een hele lelijke andere font krijgt (dit is niet echt netjes voor een logo/icon bijv. namelijk).
